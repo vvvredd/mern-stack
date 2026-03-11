@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>simple website</title>
+    <link> rel="stylesheet" href="style.css">
+    <style>
+.login-box{
+    width:300px;
+    margin:30px auto;
+    padding:20px;
+    border:2px solid gray;
+    text-align: center;
+}
+.login-box input{
+    width: 90%;
+    padding: 8px;
+    margin: 8px 0;
+}
+.login-box button{
+    padding: 8px 15px;
+    background-color: lightblue;
+    border:none;
+    cursor:pointer;
+}
+.login-box button:hover{
+    background-color: blue;
+
+}
+    </style>
+</head>
+<body>
+ <!---header--->
+<div class="header">
+    <h1>ANNAMACHARYA UNIERSITY</h1>
+    </div>
+    <!--nav-->
+    <div class="nav">
+        <a href="home.html">Home</a>
+        <a href="about.html">About</a>
+      <a href="https://youtu.be/6C1M1NW0PvM" ></a>
+    </div>
+    <div class="content">
+        <h2> welcome to my website</h2>
+        <p> this is a simple website layout created using html and css.</p>
+        <!--login box---->
+        <div class="login box"></div>
+        <h3>student login</h3>
+        <form>
+            <label>registration number</label><br>
+            <input type="text"placeholder="enter register number">
+            <label>password</label><br>
+            <input type="password"placeholder="enter password"><br>
+            <button type="submit">login</button>
+        </form>
+    </div>
+    <div class="footer">
+        <p>@ 2026 my website</p>
+    </div>
+</body>
+</html>
