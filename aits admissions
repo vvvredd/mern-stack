@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANNAMACHARYA UNIVERSITY ADMISSIONS</title>
+</head>
+<body>
+    <div class="header">
+        <h1>ANNAMACHARYA UNIVERSITY ADMISSIONS</h1>
+    </div>
+</div>
+<div class="nav">
+<a href="home.html">Back to home</a>
+<a href="about.html">about</a>
+<a href="https://youtube/6c1m1nw0pvm" target="_blank">contact</a>
+</div>
+<div class="content">
+    <h2>b.tech admission open</h2>
+    <p> the UNIVERSITY is offering admission in</p>
+<u1>
+    <li> computer science  engineering(cse)</li>
+    <li> mechanical engineering</li>
+    <li> electronic and communication engineering</li>
+    <li> electrical and electronic engineering</li>
+</u1>
+<h3> admission fees</h3>
+<p> the total admission fees for b.tech is appromiately</p>
+<h3> mess / canteen fees</h3>
+<p> the hostel students need to pay  addititional charges is around
+the approximate <b>$60,000</b>
+</p>
+<div> class ="footer"
+    <p>@ 2026 my websites 
+</p>
+</div>
+
+</div>
+</body>
+</html>
