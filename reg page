@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+< html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANNAMACHARYA UNIVERSITY</title>
+</head>
+<body>
+    <div class="header">
+        <h1>ANNAMACHARYA UNIVERSITY Admission</h1>
+    </div>
+<div class="nav">
+    <a href="home.html">Back to Home</a>
+    <a href="about.html">About</a>
+    <a href="https://youtube/6C1MlNW0PvM"target="blank">contact</a>
+<div calss="content">
+    <h2>B.Tech Admissions open</h2>
+    <p>The University is offering admission</p>
+    <ul>
+        <li>CSE</li>
+        <li>ECE</li>
+        <li>EEE</li>
+        <li>ME</li>
+        <li>CE</li>
+
+    </ul>
+    <h3>Admission Fees</h3>
+    <p>The total admission fees For B.Tech is Approximate 5lakh</p>
+    <h3>Eligibility Criteria</h3>
+    <p>students must have atleast <b>75% marks in both 10th & 12th</b>to approximate</p>
+    <h3>Canteen Fees</h3>
+    <p>The hostel students need to pay additional charges is around <b>60000</b></p>
+    
+</div>
+
+</div>
+</body>
+</html>
