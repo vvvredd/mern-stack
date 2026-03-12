@@ -1,0 +1,7 @@
+let age=18;
+let d1=true;
+if(age>18 || d1== true){
+console.log('you can drive');
+ }else{
+    console.log('you cannot drive');
+ }
