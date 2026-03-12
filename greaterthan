@@ -1,0 +1,7 @@
+let x=24;
+let y=21;
+if(x>y){
+    console.log(x,'x is a greaterthan y');
+
+}else 
+    console.log(y,'y is a graterthan x');
