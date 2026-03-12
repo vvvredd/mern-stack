@@ -1,0 +1,9 @@
+let adhaar=true;
+ let pan=false;
+if(pan){
+ console.log('you can open account');
+}else if (pan){
+   console.log('you can open account');
+}else{
+    console.log('you cannot open account')
+}
